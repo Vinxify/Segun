@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Vinxify
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML/CSS
-- 💞️ I’m looking to MENTOR/TEACHER
-- 📫 How to reach me +2349039277687 (WHATSAPP)
+- 👋 Hi, I’m @Vinxify and i'm always learning and growing
+- I’m interested in Technologies, Web Development, Web Design, Web Application
+- HTML | CSS | JavaScript | React | Tailwind | Daisy UI
+- MENTOR/TEACHER
+- 📫 Reach me on babatundesegun123@gmail.com
 
 <!---
 Vinxify/Vinxify is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
