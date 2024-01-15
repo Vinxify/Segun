@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @Vinxify and i'm always learning and growing
+- 👋 Hello, I’m Babatunde Segun Egbeleke and i'm always and growing
 - I’m interested in Technologies💻, Web Development, Web Design, Web Application
 -SKILLS/TOOLS  = HTML | CSS | JavaScript | React | Tailwind | Daisy UI
 - 📫 Reach me on babatundesegun123@gmail.com
