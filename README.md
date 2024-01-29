@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Babatunde Segun Egbeleke.
-- I’m interested in Technologies💻, Web Development, Web Design, Web Application, Open source projects
+- I’m interested in Technologies💻, Web Development, Web Design, Web Application, Open source projects.
 -SKILLS/TOOLS  = HTML | CSS | JavaScript | React | Tailwind | Daisy UI
 - 📫 Reach me on babatundesegun123@gmail.com
 
